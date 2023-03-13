@@ -79,7 +79,7 @@ jobs:
 
     environment: 
 
-      name: prod 
+      name: prd 
 
       url: 'dataenginneer.com' 
 
